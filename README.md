@@ -25,6 +25,6 @@ Find something that is lacking? Fork the project and pull request!
 
 # Commands
 
-![](imagesforcmd/cmd1.PNG)
-![](imagesforcmd/cmd2.PNG)
+![1](imagesforcmd/cmd1.PNG)
+![2](imagesforcmd/cmd2.PNG)
 
