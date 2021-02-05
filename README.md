@@ -25,4 +25,6 @@ Find something that is lacking? Fork the project and pull request!
 
 # Commands
 
-[](https://github.com/DHRUV-CODER/Fortnite-Bot/blob/main/Images%20for%20Cmd/cmd1.PNG)
+![](imagesforcmd/cmd1.PNG)
+![](imagesforcmd/cmd2.PNG)
+
