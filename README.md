@@ -24,7 +24,3 @@ Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Latest-Di
 Find something that is lacking? Fork the project and pull request!
 
 # Commands
-
-![1](imagesforcmd/cmd1.PNG)
-![2](imagesforcmd/cmd2.PNG)
-
