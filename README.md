@@ -26,3 +26,4 @@ Find something that is lacking? Fork the project and pull request!
 # Commands
 
 <img width="247" alt="cmd1" src="https://user-images.githubusercontent.com/60794694/107041111-274b3c80-67d1-11eb-9b14-0b9b1bbc84de.PNG">
+<img width="265" alt="cmd2" src="https://user-images.githubusercontent.com/60794694/107041194-40ec8400-67d1-11eb-8d7f-b9be1cfbaf89.PNG">
