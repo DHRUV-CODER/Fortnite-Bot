@@ -1,11 +1,7 @@
 # Fortnite Bot
 This is a cool discord bot made with [python](https://www.python.org)
 
-<p align="center">
-  <a href="https://discord.gg/JNzTXrjJ">
-    <img src="https://img.shields.io/discord/790595270438027295?style=for-the-badge" alt="discord - users online" />
-  </a>
-</p>
+
 
 ## How To Use
 ### Invite the hosted bot
